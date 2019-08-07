@@ -1,0 +1,29 @@
+{
+  "display_name": "burrow",
+  "maintainer": "david.garcia@bazaarvoice.com",
+  "manifest_version": "1.0.0",
+  "name": "burrow",
+  "metric_prefix": "burrow.",
+  "metric_to_check": "",
+  "creates_events": false,
+  "short_description": "",
+  "guid": "23ac1084-0ce0-4ae8-b770-133313f24865",
+  "support": "contrib",
+  "supported_os": [
+    "linux",
+    "mac_os",
+    "windows"
+  ],
+  "public_title": "Datadog-burrow Integration",
+  "categories": [
+    ""
+  ],
+  "type": "check",
+  "is_public": false,
+  "integration_id": "burrow",
+  "assets": {
+    "dashboards": {},
+    "monitors": {},
+    "service_checks": "assets/service_checks.json"
+  }
+}

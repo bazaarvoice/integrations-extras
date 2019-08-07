@@ -1,0 +1,6 @@
+init_config:
+instances:
+  - burrow_uri: http://legion-burrow:80
+    clusters:
+      - legion-kafka-qa-us-east-1
+    tags:
